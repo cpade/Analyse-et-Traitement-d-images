@@ -17,7 +17,7 @@ cloudpickle==1.2.2
 conda==4.8.1
 conda-package-handling==1.6.0
 crypto==1.4.1
-cryptography==2.8
+cryptography==3.2
 cycler==0.10.0
 Cython==0.29.14
 decorator==4.4.1
